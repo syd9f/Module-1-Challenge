@@ -35,9 +35,11 @@ N/A
 
 ## Usage
 
+[Deployed Page](https://syd9f.github.io/Module-1-Challenge/)
+
 When opening the webpage, the user will see:
 
-![Webpage Screenshot](./Assets/images/01-html-css-git-homework-demo.png)
+![Webpage Screenshot](./Assets/images/module-1-screenshot.png)
 
 Links in the nav bar can be used to access different sections of the pages main content. 
 
